@@ -1,0 +1,15 @@
+{
+  "name": "ticking_clock",
+  "version": "1.0.0",
+  "description": "React Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Parsels",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-google": "^0.7.1"
+  }
+}
